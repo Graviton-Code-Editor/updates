@@ -1,15 +1,15 @@
 {
   "Alpha":{
-    date:"190412",
-    version:"0.7.3"
+    "date":"190412",
+    "version":"0.7.3"
   },
   "Beta":{
-    date:"000000",
-    version:"0.0.0"
+    "date":"000000",
+    "version":"0.0.0"
   },
   "Stable":{
-    date:"181127",
-    version:"0.7.0"
+    "date":"181127",
+    "version":"0.7.0"
   }
 }
 
