@@ -1,13 +1,13 @@
 {
-  Alpha:{
+  "Alpha":{
     date:"190412",
     version:"0.7.3"
   },
-  Beta:{
+  "Beta":{
     date:"000000",
     version:"0.0.0"
   },
-  Atable:{
+  "Stable":{
     date:"181127",
     version:"0.7.0"
   }
